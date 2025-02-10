@@ -1,8 +1,8 @@
-#Advent Exploartions
+# Advent Exploartions
 
 this is a small project meant to hold a collection of my solutions to past advent of code problems my collegues and peers have recommened that I solve.
 
-###Lanternfish
+### Lanternfish
 
 I've built 2 solutions to the [Lanternfish 2021 day 6](https://adventofcode.com/2021/day/6) problem.  
 
